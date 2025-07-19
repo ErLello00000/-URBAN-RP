@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Regolamento - [NOME SERVER]</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="sfondo">
+    <div class="contenuto">
+      <h1>Regolamento Ufficiale</h1>
+      <p>Benvenuto nel server RP <strong>[NOME SERVER]</strong>. Di seguito trovi il regolamento da rispettare per garantire un'esperienza di gioco seria e coinvolgente.</p>
+      <!-- Inserisci qui il tuo regolamento -->
+    </div>
+  </div>
+</body>
+</html>
