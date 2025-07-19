@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Regolamento - URBAN RP</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="sfondo">
+    <div class="contenuto">
+      <h1>📜 Regolamento Generale - URBAN RP</h1>
+
+      <h2>1. Ingaggio</h2>
+      <p>1.1 L’ingaggio deve avvenire con un minimo di 2 minuti di RP, per permettere una costruzione narrativa naturale e realistica.<br>
+      1.2 Eccezione: in caso di ingaggio forzato (es. attacco improvviso, emergenza), l’azione può iniziare immediatamente, senza rispettare i 2 minuti.</p>
+
+      <h2>2. Regola No-Fear</h2>
+      <p>2.1 Se si viene puntati da una o più persone con un’arma, è obbligatorio mostrare paura.<br>
+      2.2 L’assenza di paura verrà sanzionata in base alla quantità e tipologia di armi coinvolte.</p>
+
+      <h2>3. Regole Generali di Comportamento</h2>
+      <p>
+        3.1 Sono vietati comportamenti tossici, aggressivi o offensivi.<br>
+        3.2 Vietato diffamare, molestare o minacciare altri membri della community.<br>
+        3.3 È proibito incitare all’odio, alla violenza o alla discriminazione (etnia, religione, sesso, orientamento, disabilità, ecc.).<br>
+        3.4 Le violazioni saranno punite con sanzioni gravi, anche permanenti.
+      </p>
+
+      <h2>4. Maschera</h2>
+      <p>
+        4.1 La maschera serve a rendersi irriconoscibili, ma non garantisce l’anonimato totale.<br>
+        4.2 Elementi come abbigliamento, tatuaggi, veicoli o caratteristiche fisiche possono rendere possibile il riconoscimento.<br>
+        4.3 L’uso abusivo della maschera sarà sanzionato. Sarà obbligatorio toglierla su richiesta valida.<br>
+        4.4 Il mancato rispetto è considerato Fail RP.
+      </p>
+
+      <h2>5. Uso delle Armi da Parte delle FDO</h2>
+      <p>5.1 Le Forze dell’Ordine possono aprire il fuoco per prime solo in casi estremi:
+        <ul>
+          <li>Rapimento di un ufficiale di alto grado</li>
+          <li>Minaccia diretta con armi</li>
+          <li>All’interno delle Zone Rosse</li>
+        </ul>
+      </p>
+
+      <h2>6. Post-Rianimazione</h2>
+      <p>6.1 Dopo essere stati rianimati, è obbligatorio simulare dolore e disorientamento per alcuni istanti.</p>
+
+      <h2>7. Comportamenti Vietati (con definizioni)</h2>
+      <p>
+        <strong>7.1 Bug Abusing</strong> – Vietato sfruttare bug del server (es. capriole con la radio) per ottenere vantaggi.<br>
+        <strong>7.2 Powergame</strong> – Azioni irrealistiche o forzate (es. salire su una montagna con una supercar) sono vietate.<br>
+        <strong>7.3 Fail RP</strong> – Azioni che non rispettano la logica reale sono proibite.<br>
+        <strong>7.4 No Fear</strong> – In situazioni di pericolo è obbligatorio simulare paura o stress.<br>
+        <strong>7.5 Metagame</strong> – Vietato usare info ottenute fuori dal gioco (Discord, streaming, ecc.).<br>
+        <strong>7.6 Uscita dal Personaggio</strong> – È vietato uscire dal personaggio anche in caso di infrazioni.<br>
+        <strong>7.7 Combat Log</strong> – Vietato disconnettersi o riconnettersi per evitare o sfruttare un’azione RP.<br>
+        <strong>7.8 RDM / VDM</strong> – Vietato uccidere senza motivo (RDM) o investire volontariamente (VDM).<br>
+        <strong>7.9 Cop Baiting</strong> – Vietato provocare le FDO senza motivazione concreta.<br>
+        <strong>7.10 Mixchat</strong> – Vietato mescolare IC e OOC.<br>
+        <strong>7.11 Car Kill</strong> – Vietato investire e restare sopra una persona con l’auto.<br>
+        <strong>7.12 Car Surf</strong> – Vietato stare sopra veicoli in movimento.<br>
+        <strong>7.13 Car Jack</strong> – Vietato rubare veicoli senza motivazione RP valida.<br>
+        <strong>7.14 Revenge Kill</strong> – Dopo la morte, si perde la memoria. Vietato vendicarsi.<br>
+        <strong>7.15 Bunny Hop</strong> – Vietato saltare ripetutamente per muoversi più velocemente.<br>
+        <strong>7.16 Back Seating</strong> – Vietato suggerire azioni a streamer in live.<br>
+        <strong>7.17 Call Baiting</strong> – Vietato fare chiamate apposta per attirare qualcuno.<br>
+        <strong>7.18 Stream Sniping</strong> – Vietato usare info da streaming per vantaggi.<br>
+        <strong>7.19 Bug Visivo</strong> – Vietato usare la terza persona per vedere oltre muri.<br>
+        <strong>7.20 AFK Prolungato</strong> – Vietato restare AFK a lungo in luoghi pubblici.<br>
+        <strong>7.21 Linguaggio Offensivo</strong> – Vietati insulti razzisti, omofobi, sessisti. Sanzioni severe.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
